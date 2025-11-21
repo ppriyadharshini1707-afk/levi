@@ -1,0 +1,14 @@
+# Core Python libraries
+numpy>=1.23
+pandas>=1.5
+scikit-learn>=1.2
+matplotlib>=3.7
+tqdm>=4.65
+requests>=2.31
+
+# Deep learning
+torch>=2.1
+
+# Optional: for Colab/GPU support
+# (Colab usually pre-installs these)
+# cudatoolkit (if using local GPU)
